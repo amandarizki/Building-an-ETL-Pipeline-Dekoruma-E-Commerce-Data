@@ -14,11 +14,18 @@ End-to-end data pipeline project to extract e-commerce product data, perform cle
 
 ## Repository Structure
 project/
+
 ├── README.md
+
 ├── retail_scrape_explore.ipynb
+
 ├── retail_data_load.sql
+
 ├── cleaned_retail_data.csv
+
 ├── staging_retail_data.csv
+
+├── requirements.txt
 
 ## File Description
 | File Name                     | Description                                                                            |
@@ -31,15 +38,6 @@ project/
 | `requirements.txt`            | List of Python packages required to run the notebook and scripts. Install using `pip`. |
 
 ## Technologies Used
-Python 3.x
-- pandas
-- BeautifulSoup
-- requests
-Jupyter Notebook
-pgAdmin
-PostgreSQL
-
-## ⚙️ Technologies Used
 
 * **Python**
   * pandas
@@ -54,8 +52,8 @@ PostgreSQL
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/<username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/amandarizki/ecommerce-data-scraping-exploration.git
+   cd ecommerce-data-scraping-exploration
    ```
 
 2. **Install dependencies**
