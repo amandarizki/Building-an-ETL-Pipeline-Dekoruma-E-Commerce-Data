@@ -81,10 +81,6 @@ project/
 * Ekspor dataset dalam format bersih dan staging.
 * Memuat data terstruktur ke PostgreSQL.
 
-## Penulis
-
-Amanda Rizki Koreana
-
 ---
 
 # E-COMMERCE DATA SCRAPING EXPLORATION (**English Version**)
