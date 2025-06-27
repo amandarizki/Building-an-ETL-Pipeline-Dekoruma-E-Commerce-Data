@@ -13,8 +13,8 @@ End-to-end data pipeline project to extract e-commerce product data, perform cle
 - Store cleaned data in both CSV format and a PostgreSQL database.
 
 ## Repository Structure
-project/
 ```
+project/
 ├── README.md
 ├── retail_scrape_explore.ipynb
 ├── retail_data_load.sql
