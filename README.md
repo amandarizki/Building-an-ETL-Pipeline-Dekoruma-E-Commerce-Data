@@ -14,18 +14,14 @@ End-to-end data pipeline project to extract e-commerce product data, perform cle
 
 ## Repository Structure
 project/
-
+```
 ├── README.md
-
 ├── retail_scrape_explore.ipynb
-
 ├── retail_data_load.sql
-
 ├── cleaned_retail_data.csv
-
 ├── staging_retail_data.csv
-
 ├── requirements.txt
+```
 
 ## File Description
 | File Name                     | Description                                                                            |
