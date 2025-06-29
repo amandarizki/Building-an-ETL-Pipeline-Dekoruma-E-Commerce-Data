@@ -36,8 +36,10 @@ project/
 ## Teknologi yang Digunakan
 * **Python**
   * pandas
-  * BeautifulSoup
+  * numpy
+  * beautifulsoup4
   * requests
+  * selenium
 * **PostgreSQL**
 * **Jupyter Notebook**
 * **pgAdmin**
@@ -122,8 +124,10 @@ project/
 
 * **Python**
   * pandas
-  * BeautifulSoup
+  * numpy
+  * beautifulsoup4
   * requests
+  * selenium
 * **PostgreSQL**
 * **Jupyter Notebook**
 * **pgAdmin**
