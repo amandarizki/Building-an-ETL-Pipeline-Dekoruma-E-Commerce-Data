@@ -1,3 +1,5 @@
 pandas
+numpy
 beautifulsoup4
 requests
+selenium
