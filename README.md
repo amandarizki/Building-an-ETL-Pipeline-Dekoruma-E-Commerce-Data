@@ -40,6 +40,7 @@ project/
   * beautifulsoup4
   * requests
   * selenium
+  * time
 * **PostgreSQL**
 * **Jupyter Notebook**
 * **pgAdmin**
@@ -128,6 +129,7 @@ project/
   * beautifulsoup4
   * requests
   * selenium
+  * time
 * **PostgreSQL**
 * **Jupyter Notebook**
 * **pgAdmin**
