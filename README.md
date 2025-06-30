@@ -2,7 +2,7 @@
 Proyek pipeline data end-to-end untuk mengambil data produk e-commerce, melakukan pembersihan dan eksplorasi menggunakan Pandas, serta memuat dataset hasil proses ke dalam database PostgreSQL untuk analisis lebih lanjut.
 
 ## Ringkasan Proyek
-**Retail Scrape Explore Load** mencakup proses pipeline data lengkap, meliputi:
+**ETL PIPELINE** mencakup proses pipeline data lengkap, meliputi:
 - **Extract:** Web scraping data produk dari situs web e-commerce menggunakan Python.
 - **Transform:** Pembersihan, validasi, dan eksplorasi data dengan Pandas untuk memastikan kualitas dan konsistensi.
 - **Load:** Menyimpan data yang telah diproses ke PostgreSQL untuk analisis atau pelaporan.
@@ -90,7 +90,7 @@ project/
 End-to-end data pipeline project to extract e-commerce product data, perform cleaning and exploration with Pandas, and load the processed dataset into a PostgreSQL database for further analysis.
 
 ## Project Overview
-**Retail Scrape Explore Load** demonstrates an end-to-end data pipeline process, including:
+**ETL PIPELINE** demonstrates an end-to-end data pipeline process, including:
 - **Extract:** Web scraping product data from a retail (e-commerce) website using Python.
 - **Transform:** Cleaning, validating, and exploring the data with Pandas to ensure quality and consistency.
 - **Load:** Inserting the processed data into a PostgreSQL database for further analysis or reporting.
