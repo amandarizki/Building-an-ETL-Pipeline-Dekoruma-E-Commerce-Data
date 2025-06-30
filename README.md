@@ -1,4 +1,4 @@
-# E-COMMERCE DATA SCRAPING EXPLORATION (**Versi Bahasa Indonesia**)
+# BUILDING AN ETL PIPELINE: DEKORUMA E-COMMERCE DATA (**Versi Bahasa Indonesia**)
 Proyek pipeline data end-to-end untuk mengambil data produk e-commerce, melakukan pembersihan dan eksplorasi menggunakan Pandas, serta memuat dataset hasil proses ke dalam database PostgreSQL untuk analisis lebih lanjut.
 
 ## Ringkasan Proyek
@@ -86,7 +86,7 @@ project/
 
 ---
 
-# E-COMMERCE DATA SCRAPING EXPLORATION (**English Version**)
+# BUILDING AN ETL PIPELINE: DEKORUMA E-COMMERCE DATA  (**English Version**)
 End-to-end data pipeline project to extract e-commerce product data, perform cleaning and exploration with Pandas, and load the processed dataset into a PostgreSQL database for further analysis.
 
 ## Project Overview
