@@ -51,8 +51,8 @@ project/
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/amandarizki/ecommerce-data-scraping-exploration.git
-   cd ecommerce-data-scraping-exploration
+   git clone https://github.com/amandarizki/Building-an-ETL-Pipeline-Dekoruma-E-Commerce-Data.git
+   cd Building-an-ETL-Pipeline-Dekoruma-E-Commerce-Data
    ```
 
 2. **Install dependencies**
