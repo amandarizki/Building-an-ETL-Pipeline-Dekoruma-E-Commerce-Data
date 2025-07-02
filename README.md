@@ -91,6 +91,6 @@ Amanda Rizki Koreana
 
 ---
 
-*This project was developed to practice data engineering and analytics workflows and can be reused as a reference for similar ETL pipelines.*
+*This project was developed to practice data engineering and analytics.*
 
 ```
